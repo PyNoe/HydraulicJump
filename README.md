@@ -2,5 +2,5 @@
 
 _Noé DANIEL & Richard PATEAU_
 
-![Alt text](Visuels/ressault_circulaire_rusanov.svg)
-<img src="Visuels/ressault_circulaire_rusanov.svg">
+![Alt text](Visuels/ressaut_circulaire_rusanov.svg)
+<img src="Visuels/ressaut_circulaire_rusanov.svg">
