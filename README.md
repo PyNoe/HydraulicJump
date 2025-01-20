@@ -1,5 +1,7 @@
 ## Projet d'EDPs : Le Ressaut Hydraulique.
 
+[!warning] Ce répertoire ne contient pas tous les codes utilisés, mais il contient la base et tous nos schémas de résolution.
+
 _Noé DANIEL & Richard PATEAU_
 
 <img src="Visuels/ressaut_circulaire_rusanov.svg">
